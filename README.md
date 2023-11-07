@@ -25,17 +25,17 @@
 ### Задание 1
 
 Скриншот-1 к заданию 1:
-![Скриншот-1](https://github.com/kshatyy/dz-k-b/tree/main/img/1-1.png)
+![Скриншот-1](https://github.com/kshatyy/dz-k-b/blob/main/img/1-1.png)
 Скриншот-2 к заданию 1:
-![Скриншот-1](https://github.com/kshatyy/dz-k-b/tree/main/img/1-2.png)
+![Скриншот-1](https://github.com/kshatyy/dz-k-b/blob/main/img/1-2.png)
 Скриншот-3 к заданию 1:
-![Скриншот-1](https://github.com/kshatyy/dz-k-b/tree/main/img/1-3.png)
+![Скриншот-1](https://github.com/kshatyy/dz-k-b/blob/main/img/1-3.png)
 
 ### Задание 2
 
 Скриншот-1 к заданию 1:
-![Скриншот-1](https://github.com/kshatyy/dz-k-b/tree/main/img/2-1.png)
+![Скриншот-1](https://github.com/kshatyy/dz-k-b/blob/main/img/2-1.png)
 Скриншот-2 к заданию 1:
-![Скриншот-1](https://github.com/kshatyy/dz-k-b/tree/main/img/2-2.png)
+![Скриншот-1](https://github.com/kshatyy/dz-k-b/blob/main/img/2-2.png)
 Скриншот-3 к заданию 1:
-![Скриншот-1](https://github.com/kshatyy/dz-k-b/tree/main/img/2-3.png)
+![Скриншот-1](https://github.com/kshatyy/dz-k-b/blob/main/img/2-3.png)
